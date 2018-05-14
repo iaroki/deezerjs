@@ -1,6 +1,6 @@
 {
   "name": "deezerjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Deezer client",
   "main": "main.js",
   "scripts": {
