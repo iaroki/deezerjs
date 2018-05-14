@@ -1,6 +1,6 @@
 {
-  "name": "deezer",
-  "version": "1.0.0",
+  "name": "deezerjs",
+  "version": "1.0.1",
   "description": "Deezer client",
   "main": "main.js",
   "scripts": {
@@ -11,6 +11,17 @@
     "electron": "^2.0.0"
   },
   "devDependencies": {},
-  "author": "",
-  "license": "ISC"
+  "author": "iaroki",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaroki/deezerjs.git"
+  },
+  "keywords": [
+    "deezer"
+  ],
+  "bugs": {
+    "url": "https://github.com/iaroki/deezerjs/issues"
+  },
+  "homepage": "https://github.com/iaroki/deezerjs#readme"
 }
