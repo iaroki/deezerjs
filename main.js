@@ -9,7 +9,7 @@ let mainWindow
 function createWindow () {
   mainWindow = new BrowserWindow({width: 1280, height: 800})
 
-  mainWindow.loadURL('https://deezer.com', {userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36'})
+  mainWindow.loadURL('https://deezer.com', {userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36'})
 
   mainWindow.on('closed', function () {
     mainWindow = null
